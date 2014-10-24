@@ -4,7 +4,7 @@
     android:fillAfter="true" 
     android:fillEnabled="true" >
   
-    <!-- Slide in from left -->
+    <!-- Slide out right -->
     <translate 
         android:fromXDelta="0%" 
         android:toXDelta="+1000%"
